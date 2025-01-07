@@ -66,7 +66,7 @@ This project offers the following features:
 3. **Transaction Routes:**
    - `POST /api/v1/transactions/borrow`: Borrow a book.
    - `POST /api/v1/transactions/return`: Return a book.
-   - `GET /api/v1/transactions/`: Get all transactions.
+   - `GET /api/v1/transactions/`: Get all transactions (Admin only)..
    - `GET /api/v1/transactions/user/:userId`: Get transactions by user ID.
 
 4. **Dashboard Route:**
@@ -214,11 +214,9 @@ We welcome contributions! Follow these steps:
 
 ---
 
-## 🙏 Acknowledgments
+## 🤝 Let's Connect
 
-A huge thanks to:
-- **MongoDB**, **Node.js**, and **React.js** for being the backbone of this project.
-- **Tailwind CSS** for making styling intuitive and responsive.
-- Open-source contributors and the community for invaluable resources.
-
-Let’s build seamless admin experiences together! 🚀
+Have ideas or feedback? I’d love to hear from you!
+- **Email**: yteewari@gmail.com
+- **Linkedin**: https://www.linkedin.com/in/yogendra-teewari/
+- **GitHub**: https://github.com/yogit4554
