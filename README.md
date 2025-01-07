@@ -189,7 +189,7 @@ This project offers the following features:
    ![Postman Login Testing](./Photo/Postman-borrow.png)
 
 - **Postman Testing: Return Book API**  
-   ![Postman Login Testing](./Photo/User-Return%20.png)
+   ![Postman Login Testing](./Photo/Postman-return%20-Test.png)
 
 - **Postman Testing: All Transactions API**  
    ![Postman Login Testing](./Photo/Postman-get-transaction-Test.png)
