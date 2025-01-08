@@ -121,7 +121,7 @@ This project offers the following features:
 ### Backend Setup:
 1. Navigate to the backend folder:
    ```bash
-   cd backend
+   cd ../server
    ```
 
 2. **Create a `.env` file** with the following variables:
